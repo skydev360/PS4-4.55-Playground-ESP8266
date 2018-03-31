@@ -10,7 +10,7 @@ PS4 Setup (custom) :
 
     ssid = PS4PLAYGROUND
     password = pearlxcore
-    ip = any
+    ip = 10.10.1.2
     subnet = 255.255.255.0
     gateway 10.10.1.1
     dns 10.10.1.1
