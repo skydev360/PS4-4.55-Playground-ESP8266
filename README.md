@@ -4,7 +4,18 @@
 
 PS4 4.55 Playground for ESP8266.
 
-Flash using https://github.com/nodemcu/nodemcu-flasher
+Flash using https://github.com/nodemcu/nodemcu-flasher.
+
+PS4 Setup (custom) :
+
+    ssid = PS4PLAYGROUND
+    password = pearlxcore
+    ip = any
+    subnet = 255.255.255.0
+    gateway 10.10.1.1
+    dns 10.10.1.1
+
+Accessible from User's Guide and browser.
 
 Payload include :
 
