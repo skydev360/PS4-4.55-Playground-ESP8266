@@ -41,4 +41,4 @@ Payload include :
     Spoofer 5.50 - majrawi
     FTP - vortex
     
- Credit to c0d3m4st4 and Draqen and all Devs.
+ I'm not a dev. Just writing HTML code so that we can exploit the PS4 easily. Credit to c0d3m4st4 and Draqen and all Devs.
