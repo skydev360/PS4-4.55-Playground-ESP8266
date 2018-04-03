@@ -14,6 +14,17 @@ New V2 :
     Removed Spoofer payload
     Added HEN-VR payload
     Not much style on playground as it will take more time to load on PS4 
+    
+V2 Payload include :
+
+    HEN v1.4 - vortex 
+    Linux loader - vultra
+    Dumper v1.7 - vortex 
+    App2Usb v15 - stooged
+    GTA Mod - lamance
+    Original - qwertyuiop
+    Spoofer 5.50 - majrawi
+    FTP v1.2 - vortex v1.2
 
 I haven't test 4.05 yet. So 4.05 users feel free to test and report back if there is problem
 
@@ -30,7 +41,7 @@ PS4 Setup (custom) :
 
 Accessible from User's Guide and browser.
 
-Payload include :
+V1 Payload include :
 
     HEN - vortex
     Linux loader - vultra
