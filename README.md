@@ -7,23 +7,26 @@
 PS4 4.55 Playground for ESP8266. Just a simple playground for ppl to exploit their hackable PS4.
 
 New V2 :
-
+    
+    New SSID : "ESPlayground"
+    Removed password! :p Just select AP on setting without password
     Added 4.05 payload
     Removed Spoofer payload
     Added HEN-VR payload
+    Not much style on playground as it will take more time to load on PS4 
 
-I haven't test 4.05 yet. So 4.05 useres feel free to test and report back if there is problem
+I haven't test 4.05 yet. So 4.05 users feel free to test and report back if there is problem
 
 Flash using https://github.com/nodemcu/nodemcu-flasher.
 
 PS4 Setup (custom) :
 
-    ssid = PS4PLAYGROUND
-    password = pearlxcore
-    ip = 10.10.1.2
-    subnet = 255.255.255.0
-    gateway 10.10.1.1
-    dns 10.10.1.1
+    SSID = ESPlayground
+    PASSWORD = NO PASSWORD!
+    IP = 10.10.1.2
+    SUBNET = 255.255.255.0
+    GATEWAY = 10.10.1.1
+    DNS = 10.10.1.1
 
 Accessible from User's Guide and browser.
 
