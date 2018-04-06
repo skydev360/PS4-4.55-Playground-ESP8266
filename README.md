@@ -1,10 +1,16 @@
 # PS4-4.55-Playground-ESP8266
 
-![20180404010123](https://user-images.githubusercontent.com/36906814/38262801-e35d9292-37a0-11e8-8922-6e2e60f1acac.jpg)
-![20180404010149](https://user-images.githubusercontent.com/36906814/38262798-e2e053e0-37a0-11e8-9be4-27e78f7b40bc.jpg)
-![20180404010209](https://user-images.githubusercontent.com/36906814/38262799-e31d9e4e-37a0-11e8-8e8b-a55449ff9136.jpg)
+![capture1](https://user-images.githubusercontent.com/36906814/38398967-ef5af5f0-3979-11e8-8365-75b123f9837f.PNG)
+![capture2](https://user-images.githubusercontent.com/36906814/38398968-ef927fde-3979-11e8-8a83-cdb776e1ac5c.PNG)
+![capture](https://user-images.githubusercontent.com/36906814/38398969-efd5ad7c-3979-11e8-8ee8-1dae1bde80ed.PNG)
 
 PS4 4.55 Playground for ESP8266. Just a simple playground for ppl to exploit their hackable PS4.
+
+New V3 :
+
+    Eliminate the use of image to reduce webpage load time
+    Need to change the payload to wildemodez's payload cuz lamance's size is too big 
+    Fix Original exploit
 
 New V2 :
     
